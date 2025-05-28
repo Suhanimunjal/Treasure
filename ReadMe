@@ -1,0 +1,24 @@
+#treasure
+How the Game Works:
+
+Welcome Screen
+The game starts with an eye-catching ASCII art title and a clear mission:
+"Your mission is to find the hidden treasure."
+
+Three Decision Points
+The game unfolds based on the player’s choices:
+
+First Choice: Direction
+Go Left to continue.
+Go Right and fall into a hole — Game Over.
+
+Second Choice: River Situation
+Wait patiently for a boat — proceed to the doors.
+Swim across — get eaten by crocodiles — Game Over.
+
+Third Choice: Colored Doors
+Yellow door — find the treasure — You Win! 🎉
+Red or Blue — face deadly traps — Game Over
+Invalid input — unknown door — Game Over
+
+
